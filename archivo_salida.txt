@@ -1,0 +1,16 @@
+horario_materias_invertido
+Programación:Lunes,Viernes,Sábado
+Python:Lunes,Viernes
+Visión por computador:Lunes
+Machine Learning:Martes
+Estadística:Martes
+Análisis:Martes
+PDOO:Miércoles
+Geometría:Miércoles
+Álgebra:Miércoles,Viernes
+Ofimática:Jueves
+TOC:Jueves
+Métodos:Jueves
+Variable Compleja:Viernes
+Inglés:Sábado
+Estudiar:Sábado

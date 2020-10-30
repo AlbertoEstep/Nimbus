@@ -1,0 +1,7 @@
+horario_materias
+Lunes:Programación,Python,Visión por computador
+Martes:Machine Learning,Estadística,Análisis
+Miércoles:PDOO,Geometría,Álgebra
+Jueves:Ofimática,TOC,Métodos
+Viernes:Variable Compleja,Programación,Álgebra,Python
+Sábado:Inglés,Programación,Estudiar
